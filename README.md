@@ -1,2 +1,2 @@
 # goit-markup-hw-03
-Home Work #2 // Salnykov Nikita
+Home Work #3 // Salnykov Nikita
